@@ -55,8 +55,10 @@
     border: none;
     background-color: rgb(38, 130, 129);
     color: #f6f6f6;
+    transition: all .5s ease;
 }
 
 .card>button:hover {
+    background-color: rgb(126, 158, 158);
     cursor: pointer;
 }
